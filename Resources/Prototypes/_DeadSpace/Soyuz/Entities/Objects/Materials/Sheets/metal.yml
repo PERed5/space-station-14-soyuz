@@ -5,6 +5,7 @@
   suffix: Full
   components:
   - type: Material
+  - type: PhysicalComposition
     materialComposition:
       SheetTungsten: 100
   - type: Stack
@@ -22,7 +23,6 @@
   - type: Tag
     tags:
     - Sheet
-    - SheetTungsten
   - type: Item
     heldPrefix: sheettungsten
   - type: Appearance

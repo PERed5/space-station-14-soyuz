@@ -87,7 +87,6 @@
   - type: ThiefUndeterminedBackpack
     possibleSets:
     - KammererSet
-    - DrozdSet
     - LaserCarbineSet
     - KedrSet
   - type: ActivatableUI

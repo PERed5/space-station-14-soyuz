@@ -112,6 +112,7 @@
         - Sheet
         - RawMaterial
         - Ingot
+  - type: OreSiloClient
   - type: Lathe
     idleState: icon
     runningState: building
@@ -122,6 +123,7 @@
     - PartsStatic
     - AtmosStatic
     - CablesStatic
+    - PaperworkStatic
     - CargoStatic
     - MaterialsStatic
     - BasicChemistryStatic
@@ -184,6 +186,7 @@
         - Sheet
         - RawMaterial
         - Ingot
+  - type: OreSiloClient
   - type: Lathe
     idleState: icon
     runningState: building
@@ -275,6 +278,7 @@
         - Sheet
         - RawMaterial
         - Ingot
+  - type: OreSiloClient
   - type: RequireProjectileTarget
 
 - type: entity
@@ -312,7 +316,7 @@
     - RoboticsStatic
     - BorgModulesStatic
     - BorgLimbsStatic
-    - BorgSecLimbsStatic
+    - BorgSecLimbsStatic # DS14
     dynamicPacks:
     - Robotics
     - BorgModules
@@ -324,6 +328,7 @@
       - Sheet
       - RawMaterial
       - Ingot
+  - type: OreSiloClient
   - type: GuideHelp
     guides:
     - Robotics
@@ -396,7 +401,7 @@
     - SecurityPracticeStatic
     - SecurityAmmoStatic
     - SecurityWeaponsStatic
-    - SecurityBorgModulesStatic
+    - SecurityBorgModulesStatic # DS14
     dynamicPacks:
     - SalvageSecurityBoards
     - SalvageSecurityWeapons
@@ -413,6 +418,9 @@
         - Sheet
         - RawMaterial
         - Ingot
+  - type: OreSiloClient
+  - type: LatheAnnouncing
+    channels: [Security]
 
 - type: entity
   id: AmmoTechFab
@@ -446,6 +454,7 @@
           - Sheet
           - RawMaterial
           - Ingot
+    - type: OreSiloClient
 
 - type: entity
   id: MedicalTechFab
@@ -483,6 +492,9 @@
     board: MedicalTechFabCircuitboard
   - type: StealTarget
     stealGroup: MedicalTechFabCircuitboard
+  - type: OreSiloClient
+  - type: LatheAnnouncing
+    channels: [Medical]
 
 - type: entity
   parent: BaseLathe
@@ -529,6 +541,7 @@
         - Sheet
         - RawMaterial
         - Ingot
+  - type: OreSiloClient
 
 - type: entity
   id: Biogenerator
@@ -648,6 +661,7 @@
       tags:
       - Raw
       - Wooden
+      - Boll
   - type: Lathe
     idleState: base_machine
     runningState: base_machine_processing
@@ -688,8 +702,7 @@
     whitelist:
       tags:
         - Sheet
-        - Metal
-        - Wooden
         - RawMaterial
-        - Plastic
         - Ingot
+        - Plastic
+  - type: OreSiloClient

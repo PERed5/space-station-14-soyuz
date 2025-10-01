@@ -25,7 +25,7 @@
 
 - type: latheRecipe
   abstract: true
-   parent: BaseWeaponRecipe
+  parent: BaseWeaponRecipe
   id: BaseWeaponRecipeMelee
  
   parent: BaseAmmoRecipe

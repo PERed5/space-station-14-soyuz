@@ -36,19 +36,6 @@
 # Recipes
 
 - type: latheRecipe
-  id: Handcuffs
-  result: Handcuffs
-  completetime: 2
-  materials:
-    Steel: 300
-
-- type: latheRecipe
-  id: Zipties
-  result: Zipties
-
-  completetime: 2
-
-- type: latheRecipe
   abstract: true
   parent: BaseWeaponRecipe
   id: BaseWeaponRecipePractice

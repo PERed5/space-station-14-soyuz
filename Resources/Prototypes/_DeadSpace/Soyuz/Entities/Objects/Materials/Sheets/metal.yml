@@ -67,5 +67,4 @@
   suffix: Lingering, 0
   components:
   - type: Stack
-    lingering: true
     count: 0

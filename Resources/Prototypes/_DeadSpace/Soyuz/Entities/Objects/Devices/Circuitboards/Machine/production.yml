@@ -9,8 +9,7 @@
     - type: MachineBoard
       prototype: ArmedTechFab
       stackRequirements:
-        MatterBin: 2
-        Manipulator: 2
+        MicroManipulatorStockPart: 4
         Steel: 7
         CableHV: 5
         Glass: 1

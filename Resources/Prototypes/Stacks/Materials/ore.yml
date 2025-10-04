@@ -70,7 +70,7 @@
 
 - type: stack
   id: TungstenOre
-  name: tungsten
+  name: stack-tungsten-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: tungsten }
   spawn: TungstenOre1
   maxCount: 30

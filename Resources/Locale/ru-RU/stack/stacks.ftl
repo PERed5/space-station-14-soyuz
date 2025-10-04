@@ -22,6 +22,12 @@ stack-plasteel =
         [few] листа
        *[other] листов
     } пластали
+stack-tungsten =
+    { $amount ->
+        [1] лист
+        [few] листа
+       *[other] листов
+    } вольфрама    
 stack-brass =
     { $amount ->
         [1] лист
@@ -40,12 +46,18 @@ stack-silver =
         [few] слитка
        *[other] слитков
     } серебра
+stack-tungsten-ingot =
+    { $amount ->
+        [1] слиток
+        [few] слитка
+       *[other] слитков
+    } вольфрама
 stack-gold =
     { $amount ->
         [1] слиток
         [few] слитка
        *[other] слитков
-    } золота
+    } золота    
 stack-reinforced-glass =
     { $amount ->
         [1] лист
@@ -258,6 +270,7 @@ stack-goliath-hide =
     } голиафа
 stack-telecrystal = телекристалл
 stack-gold-ore = золотая руда
+stack-tungsten-ore = руда вольфрама
 stack-rough-diamond = сырой алмаз
 stack-iron-ore = железная руда
 stack-plasma-ore = плазменная руда

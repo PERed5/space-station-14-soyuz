@@ -108,9 +108,6 @@
   id: Plasteel
 
 - type: Tag
-  id: MagazineTommyGunCap
-
-- type: Tag
   id: MagazineBoxLightestRiflePractice
 
 - type: Tag

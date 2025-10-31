@@ -25,7 +25,7 @@
   - type: AmmoCounter
   - type: GunRequiresWield 
   - type: Gun
-    fireRate: 1.5
+    fireRate: 1.65
     selectedMode: SemiAuto
     availableModes:
       - SemiAuto
@@ -42,6 +42,7 @@
         whitelist:
           tags:
           - MagazineShotgun
+          - MagazineShotgunSaiga
         whitelistFailPopup: gun-magazine-whitelist-fail
         insertSound: /Audio/Weapons/Guns/MagIn/smg_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/smg_magout.ogg
@@ -83,7 +84,7 @@
   - type: AmmoCounter
   - type: GunRequiresWield 
   - type: Gun
-    fireRate: 1.5
+    fireRate: 2.25
     selectedMode: FullAuto
     availableModes:
       - FullAuto
@@ -95,11 +96,12 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: MagazineShotgun
+        startingItem: MagazineShotgunDrumIncendiary
         priority: 2
         whitelist:
           tags:
           - MagazineShotgun
+          - MagazineShotgunSaiga
         whitelistFailPopup: gun-magazine-whitelist-fail
         insertSound: /Audio/Weapons/Guns/MagIn/smg_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/smg_magout.ogg

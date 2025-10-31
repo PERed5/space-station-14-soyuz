@@ -124,7 +124,11 @@ ert-loadout-category-kedr-name = ПП-91-01 "Кедр-Б"
 ert-loadout-category-kedr-description =
     Пистолет-пулемёт с интегрированным глушителем, разработанный в начале 2690-х годов по заказу НКВБ СССП для специальных структур.
     Использует патроны калибра 9х19 мм.
-ert-loadout-category-saiga-name = Сайга-12
-ert-loadout-category-saiga-description =
-    Самозарядное ружьё 12-го калибра, разработаное для гражданской милиции.
-    Использует барабаны под патроны калибра 12х70.
+ert-loadout-category-ak-name = АКМС
+ert-loadout-category-ak-description =
+    Культовое оружие всех войн.
+    Использует магазины калибра 7.62х39 винтовочный.
+ert-loadout-category-aksy-name = АКМС-У
+ert-loadout-category-aksy-description =
+    Укороченный вариант автомата АКМС. В простонародии Ксюха
+    Использует магазины калибра 7.62х39 винтовочный.

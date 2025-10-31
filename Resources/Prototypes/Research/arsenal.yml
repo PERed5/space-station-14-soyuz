@@ -387,6 +387,21 @@
   - WeaponRifleVSS
 
 - type: technology
+  id: AdvancedShotgunMagazine
+  name: research-technology-advanced-shotgun-ammo-magazine
+  icon:
+    sprite: _DeadSpace/Soyuz/Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/mag.rsi
+    state: base
+  discipline: Arsenal
+  tier: 3
+  cost: 17500
+  recipeUnlocks:
+  - MagazineShotgunNew
+  - MagazineShotgunNewEmpty
+  - MagazineShotgunDrum
+  - MagazineShotgunDrumEmpty
+
+- type: technology
   id: AdvancedSecurityMagazine
   name: research-technology-advanced-ammo-magazine
   icon:

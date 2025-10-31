@@ -638,4 +638,40 @@
     Plastic: 1550
     Silver: 700
     SheetTungsten: 700
+
+- type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: MagazineShotgunNew
+  result: MagazineShotgunNew
+  materials:
+    Steel: 50
+    Plastic: 300
+    IngotTungsten: 100
+
+- type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: MagazineShotgunNewEmpty
+  result: MagazineShotgunNewEmpty
+  materials:
+    Steel: 25
+    Plastic: 50
+    IngotTungsten: 100
+
+- type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: MagazineShotgunDrum
+  result: MagazineShotgunDrum
+  materials:
+    Steel: 100
+    Plastic: 450
+    IngotTungsten: 150
+
+- type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: MagazineShotgunDrumEmpty
+  result: MagazineShotgunDrumEmpty
+  materials:
+    Steel: 75
+    Plastic: 125
+    IngotTungsten: 125
 # DS14-Soyuz-end

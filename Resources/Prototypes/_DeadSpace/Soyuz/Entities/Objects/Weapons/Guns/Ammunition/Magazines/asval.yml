@@ -93,7 +93,7 @@
 
 - type: entity
   id: MagazineLightRifleAsValIncendiary
-  name: магазин для АС "Вал" (7.62х39 мм винтовочные урановые)
+  name: магазин для АС "Вал" (7.62х39 мм винтовочные зажигательные)
   parent: MagazineLightRifleAsVal
   components:
   - type: BallisticAmmoProvider

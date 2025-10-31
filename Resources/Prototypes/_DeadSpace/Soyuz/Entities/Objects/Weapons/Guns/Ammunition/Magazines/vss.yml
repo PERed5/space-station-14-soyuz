@@ -93,7 +93,7 @@
 
 - type: entity
   id: MagazineLightRifleVSSIncendiary
-  name: магазин для ВСС "Винторез" (7.62х39 мм винтовочные урановые)
+  name: магазин для ВСС "Винторез" (7.62х39 мм винтовочные зажигательные)
   parent: MagazineLightRifleVSS
   components:
   - type: BallisticAmmoProvider

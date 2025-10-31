@@ -18,13 +18,13 @@
     back:
     - BoxSurvivalEngineering
     - WeaponShotgunSaigaM
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunDrumIncendiary
+    - MagazineShotgunDrumIncendiary
     - SCSTMedipen
     - SCSTMedipen
     - SCSTMedipen
@@ -53,13 +53,13 @@
     back:
     - BoxSurvivalEngineering
     - WeaponShotgunSaigaM
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunDrumIncendiary
+    - MagazineShotgunDrumIncendiary
     - SCSTMedipen
     - SCSTMedipen
     - SCSTMedipen

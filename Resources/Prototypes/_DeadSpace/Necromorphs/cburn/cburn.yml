@@ -36,10 +36,10 @@
     back:
     - BoxSurvivalEngineering
     - WeaponShotgunSaigaM
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunDrumIncendiary
     - ObeliskStoper
     - NECROMedipen
     - NECROMedipen
@@ -70,10 +70,10 @@
     back:
     - BoxSurvivalEngineering
     - WeaponShotgunSaigaM
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
-    - MagazineShotgunIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunNewIncendiary
+    - MagazineShotgunDrumIncendiary
     - NECROMedipen
     - NECROMedipen
     - NECROMedipen

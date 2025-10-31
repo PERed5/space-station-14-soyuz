@@ -250,4 +250,12 @@
   id: BallisticsLargeCaliberWeapons
   recipes:
   - WeaponRifleASH12
+
+- type: latheRecipePack
+  id: AdvancedShotgunMagazine
+  recipes:
+  - MagazineShotgunNew
+  - MagazineShotgunNewEmpty
+  - MagazineShotgunDrum
+  - MagazineShotgunDrumEmpty
 # DS14-Soyuz-end

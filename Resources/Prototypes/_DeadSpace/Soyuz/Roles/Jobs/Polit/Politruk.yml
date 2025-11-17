@@ -1,6 +1,6 @@
 - type: job
   id: Politruk
-  name: Политический Руководитель
+  name: job-name-politruk
   description: Ходите и надзирайте за станцией, напоминание станции о важности коммунизма, пока она погибает. 
   playTimeTracker: JobPolitruk
   requirements:

@@ -89,6 +89,8 @@ job-name-syndicate = Рассвет
 job-name-unknown = неизвестно
 job-name-virologist = вирусолог
 job-name-zombie = зомби
+job-name-politruk = Политический Руководитель
+job-name-politruk = Политический Комиссар
 # Job titles
 job-title-visitor = Посетитель
 job-title-cluwne = Клувень
@@ -139,7 +141,7 @@ JobERTSecurityAmber = Офицер безопасности СОБР (Эмбер
 JobERTSecurityRed = Офицер безопасности СОБР (Красный)
 JobERTSecurityGamma = Офицер безопасности СОБР (Гамма)
 JobERTChaplain = Священник СОБР
-JobCBURNLeader = Лидер РХБЗЗ
+     = Лидер РХБЗЗ
 JobCBURNAgent = Боец РХБЗЗ
 JobDeathSquad = Боец специального отряда "Дым"
 JobHeadOfPersonnel = Начальник отдела кадров
@@ -180,6 +182,8 @@ JobSeniorSalvageSpecialist = Мастер шахтёр
 JobSeniorAdministrator = Управленец сервисного отдела
 JobStationAi = Станционный ИИ
 JobVisitor = Посетитель
+JobPolitruk = Политический Руководитель
+JobPolitkom = Политический Комиссар
 # Taipan
 JobTaipanAtmosTech = Атмосферный инженер Синдиката
 JobTaipanBotanist = Ботаник Синдиката

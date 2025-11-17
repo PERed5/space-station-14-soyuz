@@ -2,6 +2,7 @@
 - type: loadoutGroup
   id: PolitrukOuterclothing
   name: loadout-group-politruk-outerclothing
+  minLimit: 0  
   loadouts:
   - PolitrukOuterclothingCoat
   - PolitrukOuterclothingMundir
@@ -15,26 +16,13 @@
   - PolitrukHeadCap
 
 - type: loadoutGroup
-  id: PolitrukUnderwearTop
-  name: loadout-group-politruk-underwear-top
-  loadouts:
-  - PolitrukUnderweartTelnik
-  - PolitrukUnderweartBra
-
-- type: loadoutGroup
-  id: PolitrukUnderwearBottom
-  name: loadout-group-politruk-underwear-bottom
-  loadouts:
-  - PolitrukUnderwearbBoxer
-
-- type: loadoutGroup
   id: PolitrukJumpsuit
   name: loadout-group-politruk-jumpsuit
   loadouts:
+  - PolitrukJumpsuit  
   - PolitrukJumpsuitPencilskirt
   - PolitrukJumpsuitSkirt
   - PolitrukJumpsuitDress
-  - PolitrukJumpsuit
 
 - type: loadoutGroup
   id: PolitrukSocks

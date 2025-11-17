@@ -58,12 +58,8 @@
     gloves: ClothingHandsGlovesColorBlack
     id: PolitrukPDA
     ears: ClothingHeadsetAltCommand
-    socks: ClothingUnderwearSocksPolitOtdelLong
-    jumpsuit: ClothingUniformJumpsuitPolitRukFormal 
     head: ClothingHeadHatBeretPolitruk
     back: ClothingBackpackSecurity
-    underwearb: ClothingUnderwearBottomBoxersPolitOtdel
-    underweart: ClothingUnderwearTopTelnikPolitOtdel
   storage:
     back:
     - Flash

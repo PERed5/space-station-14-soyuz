@@ -90,7 +90,7 @@ job-name-unknown = неизвестно
 job-name-virologist = вирусолог
 job-name-zombie = зомби
 job-name-politruk = Политический Руководитель
-job-name-politkom = Политический Комиссар
+job-name-Politkom = Политический Комиссар
 # Job titles
 job-title-visitor = Посетитель
 job-title-cluwne = Клувень

@@ -40,8 +40,8 @@
     appearanceDataInit:
      enum.PdaVisuals.PdaType:
        !type:String
-       pda-politkom
+       pda-Politkom
   - type: PdaBorderColor
     borderColor: "#9b2d30"
   - type: Icon
-    state: pda-politkom
+    state: pda-Politkom

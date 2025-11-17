@@ -11,5 +11,5 @@
   id: JobIconPolitkom
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Politruk
+    state: Politkom
   jobName: Политический Комиссар

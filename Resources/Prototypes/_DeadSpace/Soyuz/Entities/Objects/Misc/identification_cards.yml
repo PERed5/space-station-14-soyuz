@@ -18,6 +18,6 @@
     - type: Sprite
       layers:
         - state: NKVBCard
-        - state: PolitKomissar
+        - state: Politkomissar
     - type: PresetIdCard
-      job: PolitKom
+      job: Politkom

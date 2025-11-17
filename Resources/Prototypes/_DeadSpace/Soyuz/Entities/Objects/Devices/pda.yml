@@ -29,7 +29,7 @@
   description: Грозный и властный кпк ПолитКомиссара Управления ПолитКонтроля НКВБ. Он бдит и следит, он направляет и кричит "НЕСИТЕ ТРУПОВОЗКИ!!!" 
   components:
   - type: Pda
-    id: politkomIDCard
+    id: PolitkomIDCard
     penSlot:
       startingItem: LuxuryPen
       priority: -1

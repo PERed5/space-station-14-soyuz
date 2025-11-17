@@ -17,7 +17,7 @@
   id: NKVB
   name: department-NKVB
   description: department-NKVB-description
-  color: "#D381C9"
+  color: "#ad4040"
   roles:
   - PolitKom
   - Politruk

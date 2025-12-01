@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseMagazineBoxMagnum
   id: MagazineBox357Silver
-  name: коробка патронов (.45 магнум серебрянные)
+  name: коробка патронов (.45 магнум серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumSilver
@@ -16,7 +16,7 @@
 - type: entity
   parent: BaseMagazineBoxLightestRifle
   id: MagazineBoxLightestRifleSilver
-  name: коробка патронов (5.45х39 мм винтовочные серебрянные)
+  name: коробка патронов (5.45х39 мм винтовочные серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeLightestRifleSilver
@@ -31,7 +31,7 @@
 - type: entity
   parent: BaseMagazineBoxRifle
   id: MagazineBoxRifleSilver
-  name: коробка патронов (6.5х39 мм TSF серебрянные)
+  name: коробка патронов (6.5х39 мм TSF серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeRifleSilver
@@ -46,7 +46,7 @@
 - type: entity
   parent: BaseMagazineBoxLightRifle
   id: MagazineBoxLightRifleSilver
-  name: коробка патронов (7.62х39 мм винтовочные серебрянные)
+  name: коробка патронов (7.62х39 мм винтовочные серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeLightRifleSilver
@@ -61,7 +61,7 @@
 - type: entity
   parent: BaseMagazineBoxPistol
   id: MagazineBoxPistolSilver
-  name: коробка патронов (9х19 мм серебрянные)
+  name: коробка патронов (9х19 мм серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgePistolSilver
@@ -76,7 +76,7 @@
 - type: entity
   parent: AmmoProviderShotgunShell
   id: BoxLethalshotSilver
-  name: коробка ружейных патронов (12х70 дробь серебрянная)
+  name: коробка ружейных патронов (12х70 дробь серебряная)
   components:
     - type: BallisticAmmoProvider
       proto: ShellShotgunSilver

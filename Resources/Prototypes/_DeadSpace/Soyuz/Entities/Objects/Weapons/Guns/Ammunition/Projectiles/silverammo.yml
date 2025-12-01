@@ -1,6 +1,6 @@
 - type: entity
   id: BulletMagnumSilver
-  name: пуля (.45 магнум серебрянный)
+  name: пуля (.45 магнум серебряный)
   parent: BaseBulletAP
   categories: [ HideSpawnMenu ]
   components:
@@ -12,7 +12,7 @@
 
 - type: entity
   id: BulletLightestRifleSilver
-  name: пуля (5.45х39 мм винтовочный серебрянный)
+  name: пуля (5.45х39 мм винтовочный серебряный)
   parent: BaseBullet
   categories: [ HideSpawnMenu ]
   components:
@@ -24,7 +24,7 @@
 
 - type: entity
   id: BulletRifleSilver
-  name: пуля (6.5х39 мм TSF серебрянный)
+  name: пуля (6.5х39 мм TSF серебряный)
   parent: BaseBullet
   categories: [ HideSpawnMenu ]
   components:
@@ -36,7 +36,7 @@
 
 - type: entity
   id: BulletLightRifleSilver
-  name: пуля (7.62х39 мм серебрянный)
+  name: пуля (7.62х39 мм серебряный)
   parent: BaseBulletAP
   categories: [ HideSpawnMenu ]
   components:
@@ -48,7 +48,7 @@
 
 - type: entity
   id: BulletPistolSilver
-  name: пуля (9х19 мм серебрянный)
+  name: пуля (9х19 мм серебряный)
   parent: BaseBulletAP
   categories: [ HideSpawnMenu ]
   components:
@@ -60,7 +60,7 @@
 
 - type: entity
   id: PelletShotgunSilver
-  name: дробь (12х70 дробь серебрянный)
+  name: дробь (12х70 дробь серебряный)
   categories: [ HideSpawnMenu ]
   parent: BaseBullet
   components:

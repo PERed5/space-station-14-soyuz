@@ -1,6 +1,6 @@
 - type: entity
   id: MagazinePistolSilver
-  name: пистолетный магазин (9х19 мм серебрянные)
+  name: пистолетный магазин (9х19 мм серебряные)
   parent: MagazinePistol
   description: Держись, нечисть, я иду за тобой.
   components:
@@ -28,7 +28,7 @@
 - type: entity
   parent: BaseMagazinePistolSubMachineGun
   id: MagazinePistolSubMachineGunSilver
-  name: магазин ПП (9х19 мм серебрянные)
+  name: магазин ПП (9х19 мм серебряные)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgePistolSilver

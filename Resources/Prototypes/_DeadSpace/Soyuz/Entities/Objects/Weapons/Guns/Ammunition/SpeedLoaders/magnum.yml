@@ -1,6 +1,6 @@
 - type: entity
   id: SpeedLoaderMagnumSilver
-  name: спидлоадер (.45 магнум серебрянные)
+  name: спидлоадер (.45 магнум серебряные)
   parent: BaseSpeedLoaderMagnum
   components:
   - type: BallisticAmmoProvider

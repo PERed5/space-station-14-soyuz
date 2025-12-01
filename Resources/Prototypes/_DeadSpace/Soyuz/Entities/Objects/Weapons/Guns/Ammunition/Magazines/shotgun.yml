@@ -1,6 +1,6 @@
 - type: entity
   id: MagazineShotgunSilver
-  name: барабан (12х70 серебрянные)
+  name: барабан (12х70 серебряные)
   parent: BaseMagazineShotgun
   components:
   - type: BallisticAmmoProvider

@@ -1,6 +1,6 @@
 - type: entity
   id: MagazineMagnumSilver
-  name: пистоелтный магазин (.45 магнум серебрянные)
+  name: пистоелтный магазин (.45 магнум серебряные)
   parent: BaseMagazineMagnum
   components:
   - type: BallisticAmmoProvider

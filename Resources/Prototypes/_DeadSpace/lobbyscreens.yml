@@ -128,9 +128,9 @@
 #   id: MarinesNewYear
 #   background: /Textures/LobbyScreens/Fobos/marines_new_year.webp
 
-# - type: lobbyBackground
-#   id: SoyuzNewYear
-#   background: /Textures/LobbyScreens/Fobos/soyuz_new_year.webp
+ - type: lobbyBackground
+   id: SoyuzNewYear
+   background: /Textures/LobbyScreens/Fobos/soyuz_new_year.webp
 
 # - type: lobbyBackground
 #   id: TitanNewYear
